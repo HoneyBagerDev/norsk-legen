@@ -1,8 +1,9 @@
 ---
 Title: Як підтвердити освіту лікаря в Норвегії?
-Date: 01 Oct 2024
+creationDate: 01 Oct 2024
 lastDate: 01 Oct 2024
 Summary: Загальний шлях підтвердження освіті лікаря в Норвегії для громадян України
+Draft: false
 ---
 
 ![Linoy](/img/doctor-in-norway/lindoy.webp)

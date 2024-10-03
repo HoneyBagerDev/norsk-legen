@@ -40,6 +40,37 @@ export default defineConfig({
             label: "Title",
           },
           {
+            type: "string",
+            name: "creationDate",
+            label: "Date of creation",
+            ui: {
+              description: "Example 01 Oct, 2024",
+            },
+          },
+          {
+            type: "string",
+            name: "lastDate",
+            label: "Date of last review of article",
+            ui: {
+              description: "Example 01 Oct, 2024",
+            },
+          },
+          {
+            type: "string",
+            name: "Summary",
+            label: "What is article about",
+            ui: {
+              component: "textarea",
+            },
+          },
+          {
+            name: "draft",
+            label: "Draft",
+            type: "boolean",
+            required: true,
+            description: "If this is checked the post will not be published",
+          },
+          {
             type: "rich-text",
             name: "body",
             label: "Body",
