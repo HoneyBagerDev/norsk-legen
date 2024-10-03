@@ -1,0 +1,4 @@
+baseURL = '//legen-norge.vercel.app/'
+languageCode = 'en-us'
+title = 'Legen-i-Norge'
+relativeURLs = "True"

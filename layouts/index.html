@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    {{partial "stylelinks.html"}}
+    <title>Document</title>
+  </head>
+  <body>
+    {{partial "header.html"}}
+    <div class="markdown">{{.Content}}</div>
+    <ul>
+      {{ range first 3 (where site.RegularPages "Type" "articles") }}
+      <li style="padding:0.5rem 0;">
+        {{ .Date | time.Format ":date_medium"}} -
+        <a href="{{ .Permalink }}">{{ .Title }}</a>
+      </li>
+      {{ end }}
+    </ul>
+    {{ partial "footer.html" . }}
+  </body>
+</html>

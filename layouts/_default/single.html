@@ -1,0 +1,8 @@
+{{ define "main" }}
+<div class="markdown">
+  <h1>{{.Title}}</h1>
+  <p>{{.Date | time.Format ":date_medium"}}</p>
+  {{.Content}}
+  <p><b>Дата останньої перевірки статті: </b>{{.Params.lastDate}}</p>
+</div>
+{{ end }}
