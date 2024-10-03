@@ -1,5 +1,6 @@
 ---
-title: test
+title: Draft check
+draft: true
 ---
 
 test
