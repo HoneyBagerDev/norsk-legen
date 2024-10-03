@@ -37,6 +37,13 @@
       <description>&lt;p&gt;This is contact page&lt;/p&gt;</description>
     </item>
     <item>
+      <title>test</title>
+      <link>http://localhost:1313/Norsk-lege/articles/test/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/Norsk-lege/articles/test/</guid>
+      <description>&lt;p&gt;test&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Про Norskprøven та поради перед складанням</title>
       <link>http://localhost:1313/Norsk-lege/articles/norskproven/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
