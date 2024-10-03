@@ -8,6 +8,11 @@ const branch =
   "main";
 
 export default defineConfig({
+  admin: {
+    // Make sure the path to the admin panel matches your GitHub Pages subdirectory
+    // For example, use "/<repository>/admin" if deploying from a subdirectory
+    path: "https://honeybagerdev.github.io/Norsk-lege//admin",
+  },
   branch,
 
   // Get this from tina.io
