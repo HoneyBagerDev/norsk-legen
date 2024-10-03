@@ -16,14 +16,14 @@ export default defineConfig({
   token: process.env.TINA_TOKEN,
 
   build: {
-    outputFolder: "/admin",
-    publicFolder: "/static",
+    outputFolder: "admin",
+    publicFolder: "static",
     basePath: "Norsk-lege",
   },
   media: {
     tina: {
       mediaRoot: "",
-      publicFolder: "/static",
+      publicFolder: "static",
     },
   },
   // See docs on content modeling for more info on how to setup new content models: https://tina.io/docs/schema/
