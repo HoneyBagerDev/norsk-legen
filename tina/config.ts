@@ -18,7 +18,7 @@ export default defineConfig({
   build: {
     outputFolder: "/admin",
     publicFolder: "/static",
-    basePath: "honeybagerdev.github.io/Norsk-lege",
+    basePath: "Norsk-lege",
   },
   media: {
     tina: {
