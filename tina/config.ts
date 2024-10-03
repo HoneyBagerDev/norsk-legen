@@ -8,11 +8,6 @@ const branch =
   "main";
 
 export default defineConfig({
-  admin: {
-    // Make sure the path to the admin panel matches your GitHub Pages subdirectory
-    // For example, use "/<repository>/admin" if deploying from a subdirectory
-    path: "https://honeybagerdev.github.io/Norsk-lege//admin",
-  },
   branch,
 
   // Get this from tina.io
@@ -21,13 +16,13 @@ export default defineConfig({
   token: process.env.TINA_TOKEN,
 
   build: {
-    outputFolder: "admin",
-    publicFolder: "static",
+    outputFolder: "/admin",
+    publicFolder: "/static",
   },
   media: {
     tina: {
       mediaRoot: "",
-      publicFolder: "static",
+      publicFolder: "/static",
     },
   },
   // See docs on content modeling for more info on how to setup new content models: https://tina.io/docs/schema/
