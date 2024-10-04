@@ -6,7 +6,36 @@
     <description>Recent content in Перелік останніх статей on Legen-i-Norge</description>
     <generator>Hugo</generator>
     <language>uk-UA</language>
+    <lastBuildDate>Wed, 02 Oct 2024 22:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/Norsk-lege/articles/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Про Norskprøven та поради перед складанням</title>
+      <link>http://localhost:1313/Norsk-lege/articles/norskproven/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/Norsk-lege/articles/norskproven/</guid>
+      <description>В статті розповідається про іспит в загалому, його тривалість, частини та поради з підготовки.</description>
+    </item>
+    <item>
+      <title>Як отримати студентську ліцензію в Норвегії</title>
+      <link>http://localhost:1313/Norsk-lege/articles/student-licence/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/Norsk-lege/articles/student-licence/</guid>
+      <description>A short testing description for the second blog article</description>
+    </item>
+    <item>
+      <title>Як підтвердити освіту лікаря в Норвегії?</title>
+      <link>http://localhost:1313/Norsk-lege/articles/doctor-in-norway/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/Norsk-lege/articles/doctor-in-norway/</guid>
+      <description>Загальний шлях підтвердження освіті лікаря в Норвегії для громадян України</description>
+    </item>
+    <item>
+      <title>Draft check</title>
+      <link>http://localhost:1313/Norsk-lege/articles/test/</link>
+      <pubDate>Mon, 30 Sep 2024 22:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/Norsk-lege/articles/test/</guid>
+      <description>&lt;p&gt;test&lt;/p&gt;</description>
+    </item>
     <item>
       <title></title>
       <link>http://localhost:1313/Norsk-lege/articles/epic/</link>
@@ -20,34 +49,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/Norsk-lege/articles/helsedirektoratet-application/</guid>
       <description></description>
-    </item>
-    <item>
-      <title>test</title>
-      <link>http://localhost:1313/Norsk-lege/articles/test/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/Norsk-lege/articles/test/</guid>
-      <description>&lt;p&gt;test&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Про Norskprøven та поради перед складанням</title>
-      <link>http://localhost:1313/Norsk-lege/articles/norskproven/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/Norsk-lege/articles/norskproven/</guid>
-      <description>В статті розповідається про іспит в загалому, його тривалість, частини та поради з підготовки.</description>
-    </item>
-    <item>
-      <title>Як отримати студентську ліцензію в Норвегії</title>
-      <link>http://localhost:1313/Norsk-lege/articles/student-licence/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/Norsk-lege/articles/student-licence/</guid>
-      <description>A short testing description for the second blog article</description>
-    </item>
-    <item>
-      <title>Як підтвердити освіту лікаря в Норвегії?</title>
-      <link>http://localhost:1313/Norsk-lege/articles/doctor-in-norway/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/Norsk-lege/articles/doctor-in-norway/</guid>
-      <description>Загальний шлях підтвердження освіті лікаря в Норвегії для громадян України</description>
     </item>
   </channel>
 </rss>

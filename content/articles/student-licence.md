@@ -1,7 +1,7 @@
 ---
 Title: Як отримати студентську ліцензію в Норвегії
-creationDate: 01 Oct 2024
-lastDate: 01 Oct 2024
+date: 01 Oct 2024
+lastmod:
 Summary: A short testing description for the second blog article
 Draft: false
 ---

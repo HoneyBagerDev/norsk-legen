@@ -1,7 +1,7 @@
 ---
 Title: Про Norskprøven та поради перед складанням
-creationDate: 01 Oct 2024
-lastDate: 01 Oct 2024
+date: 01 Oct 2024
+lastmod: 01 Oct 2024
 Summary: В статті розповідається про іспит в загалому, його тривалість, частини та поради з підготовки.
 Draft: false
 ---

@@ -40,20 +40,14 @@ export default defineConfig({
             label: "Title",
           },
           {
-            type: "string",
-            name: "creationDate",
+            type: "datetime",
+            name: "date",
             label: "Date of creation",
-            ui: {
-              description: "Example 01 Oct, 2024",
-            },
           },
           {
-            type: "string",
-            name: "lastDate",
+            type: "datetime",
+            name: "lastmod",
             label: "Date of last review of article",
-            ui: {
-              description: "Example 01 Oct, 2024",
-            },
           },
           {
             type: "string",
