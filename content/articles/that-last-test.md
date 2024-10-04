@@ -14,7 +14,7 @@ I would start with testing heading 2
 
 This is random picture.
 
-![](/static/img/doctor-in-norway/WDoMS.png)
+![](/img/doctor-in-norway/WDoMS.png)
 
 > Next is quote:\
 > This is quote of text\
