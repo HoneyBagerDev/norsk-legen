@@ -38,4 +38,4 @@ a + b = c;
 
 c + b = a;
 
-Thanks for attention. 
+Thanks for attention.
