@@ -1,5 +1,6 @@
 ---
 title: contact
-layout: single 
+layout: single
 ---
+
 This is contact page
