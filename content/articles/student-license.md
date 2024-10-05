@@ -5,7 +5,7 @@ title: Ліцензія медичного студента в Норвегії?
 date: 2024-08-31T22:00:00.000Z
 lastmod: 2024-09-04T22:00:00.000Z
 Summary: 'Умови для отримання, процес отримання, вартість'
-draft: true
+draft: false
 ---
 
 ![](/img/student-license/photo_2024-10-01_20-05-18.jpg)Rogaland, Norge - Nov 2023
