@@ -2,7 +2,7 @@
 title: Альтернативний шлях після Introsenteret Integreringsprogrammet
 date: 2024-10-01T22:00:00.000Z
 lastmod: 2024-10-01T22:00:00.000Z
-Summary: Покращення мовних навичок та отримання освіти у Videregående Voksenopplæring
+Summary: Отримання освіти у Videregående Voksenopplæring
 draft: false
 ---
 
