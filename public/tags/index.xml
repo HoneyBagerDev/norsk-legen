@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Legen-i-Norge</title>
-    <link>//honeybagerdev.github.io/Norsk-lege/tags/</link>
+    <link>https://honeybagerdev.github.io/Norsk-lege/tags/</link>
     <description>Recent content in Tags on Legen-i-Norge</description>
     <generator>Hugo</generator>
     <language>uk-UA</language>
-    <atom:link href="//honeybagerdev.github.io/Norsk-lege/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://honeybagerdev.github.io/Norsk-lege/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
