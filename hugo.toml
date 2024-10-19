@@ -1,4 +1,4 @@
-baseURL = 'https://honeybagerdev.github.io/Norsk-lege'
+baseURL = '//honeybagerdev.github.io/norsk-legen/'
 languageCode = 'uk-UA'
 title = 'Legen-i-Norge'
 relativeURLs = true
